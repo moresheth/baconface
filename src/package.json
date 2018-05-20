@@ -1,0 +1,21 @@
+{
+  "fitbit": {
+    "appUUID": "8387407c-edb4-4b54-a610-42c11e5aa114",
+    "appType": "clockface",
+    "appDisplayName": "BaconFace",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "BaconFace"
+      }
+    }
+  }
+}

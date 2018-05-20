@@ -1,0 +1,41 @@
+.background {
+  viewport-fill: black;
+}
+
+#date {
+  font-size: 35;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%;
+  fill: cornflowerblue;
+}
+
+#time {
+  font-size: 110;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 62%;
+  fill: white;
+}
+
+#hr {
+  font-size: 70;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 50%;
+  y: 92%;
+  fill: white;
+}
+
+#iconHRM {
+  width: 60;
+  height: 60;
+  y: 70%;
+  x: 30%;
+  fill: #FF214A;
+}

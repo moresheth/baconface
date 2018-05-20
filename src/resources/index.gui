@@ -1,0 +1,6 @@
+<svg class="background">
+  <text id="date" />
+  <text id="time" />
+  <text id="hr" />
+  <image id="iconHRM" href="images/stat_hr_open_48px.png" />
+</svg>
